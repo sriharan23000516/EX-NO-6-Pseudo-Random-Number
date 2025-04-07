@@ -37,7 +37,8 @@ return 0;
 ```
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/d891ee5a-e276-4a37-b83f-57fd0d1fc3aa)
+
+![image](https://github.com/user-attachments/assets/04535340-b07b-439b-aea3-60f55621a662)
 
 # RESULT:
 The Implementation of Pseudorandom Number Generation Using Standard library is successful.
